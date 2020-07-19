@@ -1,0 +1,27 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Jest ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage":"jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elberfeld2/Tests.git"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "Elberfeld",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elberfeld2/Tests/issues"
+  },
+  "homepage": "https://github.com/elberfeld2/Tests#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
